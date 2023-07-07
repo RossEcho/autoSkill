@@ -1,0 +1,2 @@
+# autoSkill
+Auto key presser
